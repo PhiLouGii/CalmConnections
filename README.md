@@ -21,5 +21,7 @@ You should start on the main index page of the HTML document, which should lead 
 Once the user has registered or logged in, they have the option to log their emotions or skip and navigate to the rest of the application. 
 From there, the user has a variety of options of activities they would like to engage in on the application such as joining a forum, reading about mental disorders, music & meditation techniques or having sessions with professionally trained therapists. 
 
+<u>License</u>
+This project is licensed under the MIT License - see the LICENSE file for details.
 Contact: 
 For more information and questions, contact p.giibwa@alustudent.com or pgiibwa04@gmail.com 
