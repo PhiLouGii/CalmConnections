@@ -1,5 +1,5 @@
-CalmConnections
-Transforming Mental Health Care
+# **CalmConnections**
+## Transforming Mental Health Care
 
 CalmConnections is a mental health App that focuses on delivering most of the features to users who in other words, are not able to access them. This includes access to professional therapists that are located worldwide, handpicked useful resources, tip and coping mechanisms as well as journaling and recording your feelings. 
 
